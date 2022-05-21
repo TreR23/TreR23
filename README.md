@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TreR23
-- 👀 I’m interested in Data Science and Marketing Analytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me www.linkedin.com/in/trerodriguez
