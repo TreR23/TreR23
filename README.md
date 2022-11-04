@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TreR23
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently focusing on perfecting my SQL skills
+- 👀 I’m focused on Data Analytics
+- 🌱 I’m currently focusing on expanding my analytical tool kit.
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me www.linkedin.com/in/trerodriguez
 
