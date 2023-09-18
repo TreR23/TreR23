@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TreR23
-- 👀 I’m focused on Data Analytics
+- 👀 I’m focused on Data Engineering
 - 🌱 I’m currently expanding my analytical tool kit.
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me www.linkedin.com/in/trerodriguez
