@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TreR23
 - 👀 I’m currently fascinated by NLP and Network Science.
-- 🌱 I’m currently expanding my analytical tool kit.
+- 🌱 I’m expanding my analytical tool kit.
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me www.linkedin.com/in/trerodriguez
 
