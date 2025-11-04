@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @TreR23
-- 👀 I’m currently fascinated by NLP and Network Science.
-- 🌱 I’m expanding my analytical tool kit.
-- 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me www.linkedin.com/in/trerodriguez
+- 👀 I’m currently learning about LLMs in Production.
+- 📫 Reach me: www.linkedin.com/in/trerodriguez
 
 <!---
 TreR23/TreR23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
