@@ -1,4 +1,4 @@
-- 👀 I’m currently learning about LLMs in Production.
+- 👀 I’m currently building the AI Agent Hecate System
 - 📫 Reach me: www.linkedin.com/in/trerodriguez
 
 <!---
