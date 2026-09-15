@@ -1,4 +1,4 @@
-- 👀 I’m currently building the AI Agent Hecate System
+- 👀 I just finished the Women in Data Datathon 2026. 
 - 📫 Reach me: www.linkedin.com/in/trerodriguez
 
 <!---
