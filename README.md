@@ -1,4 +1,4 @@
-- 👀 I just finished the Women in Data Datathon 2026. 
+- 👀 Women in Datathon 2026 - Third Place Winner 
 - 📫 Reach me: www.linkedin.com/in/trerodriguez
 
 <!---
